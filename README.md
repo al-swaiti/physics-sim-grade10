@@ -66,10 +66,22 @@ An interactive physics simulation application designed for Grade 10 students. Th
 
 4.  Open your browser at `http://localhost:5173`
 
+## 🗺️ Roadmap / خارطة الطريق
+
+See [GitHub Issues](https://github.com/al-swaiti/physics-sim-grade10/issues) for planned features and development tasks.
+
+-   **Phase 1:** Multimedia Integration (Veo 3, Gemini 3)
+-   **Phase 2:** Interactive Exercises
+-   **Phase 3:** UX & Pedagogical Improvements
+
 ## 🤝 Contributing / المساهمة
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-نرحب بالمساهمات! لا تتردد في إرسال طلب سحب (Pull Request).
+We follow a professional **Issue-Driven Development** workflow.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute.
+
+1.  Fork the repository.
+2.  Create a feature branch.
+3.  Open a Pull Request linked to an Issue.
 
 ## 📄 License / الترخيص
 
