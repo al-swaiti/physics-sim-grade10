@@ -50,7 +50,7 @@ An interactive physics simulation application designed for Grade 10 students. Th
 
 1.  Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/al-swaiti/physics-sim-grade10.git
     cd physics-sim-grade10
     ```
 
